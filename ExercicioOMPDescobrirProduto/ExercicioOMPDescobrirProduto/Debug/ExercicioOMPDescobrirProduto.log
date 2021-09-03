@@ -1,0 +1,3 @@
+﻿  ExercicioOMPDescobrirProduto.cpp
+C:\Users\hacki\OneDrive\Desktop\UNINTER\ExercicioOMPDescobrirProduto\ExercicioOMPDescobrirProduto\ExercicioOMPDescobrirProduto.cpp(15,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  ExercicioOMPDescobrirProduto.vcxproj -> C:\Users\hacki\OneDrive\Desktop\UNINTER\ExercicioOMPDescobrirProduto\Debug\ExercicioOMPDescobrirProduto.exe

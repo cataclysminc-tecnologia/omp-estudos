@@ -1,0 +1,3 @@
+﻿  ExercicioOMPCalculoHistograma.cpp
+C:\Users\hacki\OneDrive\Desktop\UNINTER\ExercicioOMPCalculoHistograma\ExercicioOMPCalculoHistograma\ExercicioOMPCalculoHistograma.cpp(16,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  ExercicioOMPCalculoHistograma.vcxproj -> C:\Users\hacki\OneDrive\Desktop\UNINTER\ExercicioOMPCalculoHistograma\Debug\ExercicioOMPCalculoHistograma.exe
